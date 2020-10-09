@@ -68,7 +68,7 @@ main {
 /*navbar-list*/
     .list  {
 
-            width: 322px;
+            width: 622px;
             height: 30px;
             left: 410px;
             top: 75px;
@@ -89,7 +89,7 @@ main {
 
     a {
     
-        padding: 0 40px;
+        padding: 0 50px;
         text-decoration: none;
         text-transform: none;
         color: inherit;
@@ -101,18 +101,20 @@ main {
 
 /*navbar-button1*/
 
-    .button1 {
+    .link111 {
         
         position: relative;
-        width: 210px;
-        height: 60px;
-        left: 508px;
+        width: 150px;
+        height: 40px;
+        left: 148px;
         background: #FFFFFF;
         box-shadow: 0px 5px 5px rgba(75, 93, 104, 0.1);
         border-radius: 50px;
         border: none;
         color: #212353;
         font-family: Arial, Helvetica, sans-serif;
+        padding-top: 25px;
+        margin-right: 20px;
     }
 
     .nav-img5 {
@@ -580,7 +582,7 @@ main {
 .button03 {
 
     position: relative;
-    width: 170px;
+    width: 100px;
     height: 60px;
     font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
@@ -599,8 +601,8 @@ main {
 .button01 {
 
     position: relative;
-    width: 210px;
-    height: 60px;
+    width: 150px;
+    height: 40px;
     background: #FFFFFF;
     box-shadow: 0px 5px 5px rgba(75, 93, 104, 0.1);
     border-radius: 50px;
@@ -609,6 +611,7 @@ main {
     font-family: Arial, Helvetica, sans-serif;
     margin-left: 30px;
     margin-top: 121px;
+    padding-top: 20px;
 }
 
 .footer-title {
